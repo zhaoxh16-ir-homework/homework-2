@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/zhaoxinhao/.conda/envs/zhaoxinhao/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
+}
